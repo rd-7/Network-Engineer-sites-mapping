@@ -19,7 +19,7 @@ This is the Tableau Packaged Workbook file that includes:
 - All visualizations created for the project.
 - Embedded data for site-wise Network Engineer mapping.
 
-### Supporting Files (if applicable)
+### Supporting Files
 - **Screenshots:** Visual previews of key dashboards.
 - **Source Data:** Cleaned and anonymized data sets for demonstration purposes.
 - **Documentation:** Explanations of the methodology and insights derived from the project.
